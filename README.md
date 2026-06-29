@@ -1,4 +1,4 @@
-# gestion-de-ciudadanos
+# Gestion de Ciudadanos
 
 ## Como ejecutar el script
 
