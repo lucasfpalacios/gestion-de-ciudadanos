@@ -75,7 +75,6 @@ class RegistroPersonas:
 
 
 
-
 datos = [
     ('38506456', 'Giovani', 'Lo Celso', 30),
     ('33908456', 'Lionel', 'Messi', 39),
