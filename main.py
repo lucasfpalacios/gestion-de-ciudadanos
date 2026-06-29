@@ -38,7 +38,7 @@ class RegistroPersonas:
     
   def formateo_registros(self):
     for persona in self.lista_personas:
-      self.registros_formateados.append({persona.dni : {persona.nombre, persona.apellido, persona.edad}})
+      self.registros_formateados.append({persona.dni : (persona.nombre, persona.apellido, persona.edad)})
     return self.registros_formateados
       
   def get_mayor(self):
